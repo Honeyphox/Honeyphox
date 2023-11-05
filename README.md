@@ -1,7 +1,4 @@
-- Hi, I’m @Honeyphox
-- I’m interested in ... programming (duh...)
-- I’m currently learning ... C# and Java
-- How to reach me ... you don't ;)
+Yagirl Honeyphox at it again, scavenging in your local dumpster.
 
 <!---
 Honeyphox/Honeyphox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
